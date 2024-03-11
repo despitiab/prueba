@@ -78,7 +78,7 @@
         <archive>
           <manifest>
             <addClasspath>true</addClasspath>
-            <mainClass>pruebajava.App</mainClass>
+            <mainClass>classes.pruebajava.App</mainClass>
           </manifest>
         </archive>
       </configuration>
